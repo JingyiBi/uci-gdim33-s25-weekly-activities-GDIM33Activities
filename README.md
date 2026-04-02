@@ -9,7 +9,7 @@
 ### Activity 2
 2.1. 2D platformer
 2.2. Each map has an entrance and an exit, and players must defeat bosses and collect the necessary materials to complete the level.
-(Break-down)[https://docs.google.com/drawings/d/1yYa-e13dwjo4l-MoDIiCSl77PLDO4tB7qFhnd5R_6Y4/edit]
+[Break-down](https://docs.google.com/drawings/d/1yYa-e13dwjo4l-MoDIiCSl77PLDO4tB7qFhnd5R_6Y4/edit)
 ## W2
 Write your W2 Devlog here.
 
