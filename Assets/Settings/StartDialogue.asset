@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d87814806be98455aa06d85e22ad29d6, type: 3}
+  m_Name: StartDialogue
+  m_EditorClassIdentifier: 
+  Line: Hiiii
+  ReplyOptions:
+  - line: :)
+    nextNode: {fileID: 11400000, guid: 0890e4ded9fba4186add42ef7dcacd8e, type: 2}
+  - line: Hi!
+    nextNode: {fileID: 11400000, guid: 9a2d3c468bffe423d8cb23ad50645ba5, type: 2}
