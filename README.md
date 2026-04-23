@@ -10,7 +10,11 @@
 2.1. 2D platformer
 2.2. Each map has an entrance and an exit, and players must defeat bosses and collect the necessary materials to complete the level.
 [Break-down](https://docs.google.com/drawings/d/1yYa-e13dwjo4l-MoDIiCSl77PLDO4tB7qFhnd5R_6Y4/edit)
-## W2
-Write your W2 Devlog here.
+## W4
+### Activity 1: playtest
+Playtesting goal:
+1. Player can move and jump smoothly.
+2. After picking up items, player can get new skill.
+Playtesting team: Yan Zhang, Tina Meng, Xichan Zheng, Alex Ding, Jingyi Bi
 
 Continue adding additional headers below this one for future weeks and future activities.
