@@ -16,5 +16,5 @@ Playtesting goal:
 1. Player can move and jump smoothly.
 2. After picking up items, player can get new skill.
 Playtesting team: Yan Zhang, Tina Meng, Xichan Zheng, Alex Ding, Jingyi Bi
+Jumping makes you take off. This is a bit tricky for people without a mouse. Can't enter the tree hollow on the left, and the jump feels a bit awkward, it's too low.
 
-Continue adding additional headers below this one for future weeks and future activities.
